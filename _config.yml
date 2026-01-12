@@ -26,11 +26,11 @@ author:
   avatar           : "profile.png"
   name             : "Pang Minmin"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "A first-year Ph.D. student studying mesenchymal stem cell differentiation in the context of novel oral biomaterials"
+  location         : "China"
+  employer         : "Peking University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "2991338276@qq.com" 
 
   # Academic websites
   academia         : # URL
