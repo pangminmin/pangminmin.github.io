@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a first-year Ph.D. student in Health Data Science at the [National Institute of Health Data Science](https://www.nihds.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). I am fortunate to be advised by [Prof. XX](). My research interests include AI for ECG (AI-ECG), medical time-series data, and digital health tools.
+I am a first-year Ph.D. student specializing in novel oral biomaterials in the Department of Prosthodontics at Peking University School and Hospital of Stomatology. I am fortunate to be supervised by Professor Xuliang Deng and Assistant Professor Binbin Lai(https://laiblab.github.io/). My research interests focus on the tri-lineage differentiation of mesenchymal stem cells and the performance prediction of oral biomaterials.
 
 You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
