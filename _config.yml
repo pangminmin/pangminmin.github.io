@@ -23,7 +23,7 @@ repository               : "https://pangminmin.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "../images/小二寸.png"
   name             : "Minmin Pang"
   pronouns         : # example: "she/her"  
   bio              : "A first-year Ph.D. student studying mesenchymal stem cell differentiation in the context of novel oral biomaterials"
