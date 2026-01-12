@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Your Name / Site Title"
+title                    : "Minmin Pang"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,7 +24,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Pang Minmin"
+  name             : "Minmin Pang"
   pronouns         : # example: "she/her"  
   bio              : "A first-year Ph.D. student studying mesenchymal stem cell differentiation in the context of novel oral biomaterials"
   location         : "Beijing,China"
