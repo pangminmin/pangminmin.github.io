@@ -34,18 +34,39 @@ osteo_alpl_mean = data.loc[data["celltype"] == "Osteoblasteogenic BMSCs", "ALPL"
 adipo_alpl_mean = data.loc[data["celltype"] == "Adipogenic BMSCs", "ALPL"].mean()
 bmsc_alpl_mean = data.loc[data["celltype"] == "BMSCs", "ALPL"].mean()
 ```
-
-### 分析结果
+## 分析结果
 ### 1. 细胞类型分布
-![细胞类型分布](/images/portfolio/bmscs-gene-expression-analysis/cell_type_distribution.png)
+![细胞类型分布](/images/portfolio/bmscs-gene-expression-analysis/不同细胞类型正表达对应基因.png)
 数据集包含三种细胞类型：成脂分化BMSCs（7376个样本）、成骨分化BMSCs（3259个样本）和未分化BMSCs（2104个样本），样本分布呈现一定的偏向性，成脂分化样本占比最高。
 
 ### 2. 关键基因表达特征
-![ALPL基因表达分布](/images/portfolio/bmscs-gene-expression-analysis/alpl_expression_boxplot.png)
+![ALPL基因表达分布](/images/portfolio/bmscs-gene-expression-analysis/特征基因在细胞类型中的平均表达量.png)
 ALPL基因在成骨分化BMSCs中表达水平显著高于其他两种细胞类型（均值0.60 vs 成脂0.01 vs 未分化0.09），提示该基因可能在BMSCs成骨分化过程中发挥关键调控作用。
 
 ### 3. 基因表达差异图谱
-![基因表达热图](/images/portfolio/bmscs-gene-expression-analysis/gene_expression_heatmap.png)
+![基因表达热图](/images/portfolio/bmscs-gene-expression-analysis/混淆矩阵.png)
 通过差异表达基因分析，鉴定出120个在不同分化方向中显著差异表达的基因，这些基因主要富集在细胞分化、骨发育、脂肪代谢等生物学通路中。
-<img width="432" height="645" alt="image" src="https://github.com/user-attachments/assets/ba8c6a37-0e25-46b7-81a8-c596eb7311f6" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
