@@ -26,16 +26,16 @@ tech_stack:
 ```python
 # 数据读取与基本信息查看
 data = pd.read_csv("counts_with_celltype.csv", index_col=0)
-
+'''
 ### 2. 关键基因表达分析
 ```python
 # 分析ALPL基因在不同细胞类型中的表达差异
 osteo_alpl_mean = data.loc[data["celltype"] == "Osteoblasteogenic BMSCs", "ALPL"].mean()
 adipo_alpl_mean = data.loc[data["celltype"] == "Adipogenic BMSCs", "ALPL"].mean()
 bmsc_alpl_mean = data.loc[data["celltype"] == "BMSCs", "ALPL"].mean()
+'''
 
-
-## 分析结果
+### 分析结果
 ### 1. 细胞类型分布
 ![细胞类型分布](/images/portfolio/bmscs-gene-expression-analysis/cell_type_distribution.png)
 数据集包含三种细胞类型：成脂分化BMSCs（7376个样本）、成骨分化BMSCs（3259个样本）和未分化BMSCs（2104个样本），样本分布呈现一定的偏向性，成脂分化样本占比最高。
