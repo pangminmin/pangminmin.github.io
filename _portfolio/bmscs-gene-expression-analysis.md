@@ -26,14 +26,14 @@ tech_stack:
 ```python
 # 数据读取与基本信息查看
 data = pd.read_csv("counts_with_celltype.csv", index_col=0)
-'''
+```
 ### 2. 关键基因表达分析
 ```python
 # 分析ALPL基因在不同细胞类型中的表达差异
 osteo_alpl_mean = data.loc[data["celltype"] == "Osteoblasteogenic BMSCs", "ALPL"].mean()
 adipo_alpl_mean = data.loc[data["celltype"] == "Adipogenic BMSCs", "ALPL"].mean()
 bmsc_alpl_mean = data.loc[data["celltype"] == "BMSCs", "ALPL"].mean()
-'''
+```
 
 ### 分析结果
 ### 1. 细胞类型分布
