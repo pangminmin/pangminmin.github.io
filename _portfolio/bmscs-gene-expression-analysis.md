@@ -23,45 +23,17 @@ tech_stack:
 
 ## 核心实现
 ### 1. 数据加载与预处理
+```python
 # 数据读取与基本信息查看
 data = pd.read_csv("counts_with_celltype.csv", index_col=0)
-print("数据维度:", data.shape)
-print("细胞类型分布:")
-print(data['celltype'].value_counts())
-
-### 1. 数据加载与预处理
-# 数据读取与基本信息查看
-data = pd.read_csv("counts_with_celltype.csv", index_col=0)
-print("数据维度:", data.shape)
-print("细胞类型分布:")
-print(data['celltype'].value_counts())
-
 
 ### 2. 关键基因表达分析
+```python
 # 分析ALPL基因在不同细胞类型中的表达差异
 osteo_alpl_mean = data.loc[data["celltype"] == "Osteoblasteogenic BMSCs", "ALPL"].mean()
 adipo_alpl_mean = data.loc[data["celltype"] == "Adipogenic BMSCs", "ALPL"].mean()
 bmsc_alpl_mean = data.loc[data["celltype"] == "BMSCs", "ALPL"].mean()
 
-print(f"成骨分化BMSCs ALPL均值: {osteo_alpl_mean}")
-print(f"成脂分化BMSCs ALPL均值: {adipo_alpl_mean}")
-print(f"未分化BMSCs ALPL均值: {bmsc_alpl_mean}")
-
-### 3. 可视化分析
-# 细胞类型分布可视化
-plt.figure(figsize=(8, 6))
-sns.countplot(x='celltype', data=data)
-plt.title('Cell Type Distribution')
-plt.xticks(rotation=45)
-plt.show()
-
-# ALPL基因表达箱线图
-plt.figure(figsize=(10, 6))
-sns.boxplot(x='celltype', y='ALPL', data=data)
-plt.title('ALPL Expression in Different Cell Types')
-plt.xticks(rotation=45)
-plt.show()
-```
 
 ## 分析结果
 ### 1. 细胞类型分布
