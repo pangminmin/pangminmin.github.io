@@ -3,7 +3,7 @@ title: "骨髓间充质干细胞分化相关基因表达数据分析"
 collection: portfolio
 type: "Data Analysis"
 permalink: /portfolio/bmscs-gene-expression-analysis
-date: 2026-01-15
+date: 2026-01-10
 excerpt: "通过单细胞基因表达数据，系统分析骨髓间充质干细胞（BMSCs）不同分化方向的分子特征，为干细胞定向分化机制研究提供数据支撑"
 header:
   teaser: /images/portfolio/bmscs-gene-expression-analysis/特征基因在细胞类型中的平均表达量.png
