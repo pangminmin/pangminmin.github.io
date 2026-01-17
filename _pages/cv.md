@@ -13,7 +13,12 @@ Education
 ======
 * Bachelor of Marketing, Guanghua School of Management, Peking University  
   * GPA: 3.9/4.0 (Top 5% of the grade, ranking 5th among 100 students)  
-  * Relevant Courses: Marketing Management (95), Consumer Behavior (98), Strategic Management (93), Social Media Operations (97), Public Relations (96), Leadership and Communication (98)
+  * Relevant Courses: Marketing Management (95),
+  *                   Consumer Behavior (98),
+  *                   Strategic Management (93),
+  *                   Social Media Operations (97),
+  *                   Public Relations (96),
+  *                   Leadership and Communication (98)
 
 Work experience
 ======
