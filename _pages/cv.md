@@ -11,54 +11,34 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Bachelor of Marketing, Guanghua School of Management, Peking University  
+  * GPA: 3.9/4.0 (Top 5% of the grade, ranking 5th among 100 students)  
+  * Relevant Courses: Marketing Management (95), Consumer Behavior (98), Strategic Management (93), Social Media Operations (97), Public Relations (96), Leadership and Communication (98)
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* No work experience information available in the provided resume.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Software Tools  
+  * Proficient in SPSS  
+  * Proficient in Python (Pandas, Matplotlib)  
+  * Proficient in Adobe Creative Suite (Photoshop, Premiere Pro)  
+  * Proficient in Microsoft Office  
+* Professional Skills  
+  * Market research and user portrait analysis  
+  * Social media operation strategy formulation  
+  * Brand promotion planning  
+  * Competitive product data tracking and report writing  
+  * Cross-departmental coordination and communication  
+* Leadership Skills  
+  * Outstanding organizational coordination ability  
+  * Team management and training  
+  * Project top-level design and overall promotion  
+  * Team morale motivation  
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* No specific service or leadership experience information available in the provided resume.
+
