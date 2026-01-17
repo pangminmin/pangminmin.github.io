@@ -69,14 +69,12 @@
       "name":  "Research on the Influence Model of Generation Z 'Opinion Leaders' on Consumption Decisions",
       "publisher": "Management World (CSSCI Source Journal)",
       "releaseDate": "2022-11-05",
-      #"website": "http://academicpages.github.io/files/paper1.pdf",
       "summary": "As the first author, this paper studies the influence mechanism of Generation Z 'opinion leaders' on consumers' decision-making process, and constructs a corresponding influence model to provide reference for enterprises' marketing strategies targeting Generation Z."
     },
     {
       "name":  "Analysis of New Consumer Brand Community Construction and User Stickiness Strategy",
       "publisher": "Journal of Marketing Science",
       "releaseDate": "2023-01-15",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
       "summary": "As a co-author, this paper analyzes the key factors in the construction of new consumer brand communities, and explores effective strategies to improve user stickiness, so as to help new consumer brands achieve sustainable development."
     }
   ],
@@ -110,22 +108,6 @@
       "description": ""
     }
   ],
- # "teaching": [
-   # {
-      #"course": "Teaching experience 1",
-     # "institution": "University 1, Department",
-     # "date": "2014-01-01",
-      #"role": "Undergraduate course",
-      #"description": ""
-   # },
-    #{
-      #"course": "Teaching experience 2",
-      #"institution": "University 1, Department",
-      #"date": "2015-01-01",
-      #"role": "Workshop",
-     # "description": ""
-   # }
-  #],
   "portfolio": [
     {
       "name": "Portfolio item number 1",
