@@ -33,20 +33,20 @@
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
+      "institution": "Peking University",
+      "area": "Bachelor of Marketing, Guanghua School of Management",
+      "studyType": "Undergraduate",
       "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
+      "endDate": "2028",
+      "gpa": "3.9/4.0 (Top 5% of the grade, ranking 5th among 100 students)",
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "Hongkong University",
+      "area": "M.S. in novel biomaterials for bone restoration",
       "studyType": "",
       "startDate": "",
-      "endDate": "2014",
+      "endDate": "2025",
       "gpa": null,
       "courses": []
     },
@@ -60,38 +60,24 @@
       "courses": []
     }
   ],
-  "skills": [],
+  "skills": ["Software Tools: Proficient in SPSS, Python (Pandas, Matplotlib), Adobe Creative Suite (Photoshop, Premiere Pro), Microsoft Office",],
   "languages": [],
   "interests": [],
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name":  "Research on the Influence Model of Generation Z 'Opinion Leaders' on Consumption Decisions",
+      "publisher": "Management World (CSSCI Source Journal)",
+      "releaseDate": "2022-11-05",
+      #"website": "http://academicpages.github.io/files/paper1.pdf",
+      "summary": "As the first author, this paper studies the influence mechanism of Generation Z 'opinion leaders' on consumers' decision-making process, and constructs a corresponding influence model to provide reference for enterprises' marketing strategies targeting Generation Z."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
+      "name":  "Analysis of New Consumer Brand Community Construction and User Stickiness Strategy",
+      "publisher": "Journal of Marketing Science",
+      "releaseDate": "2023-01-15",
       "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "summary": "As a co-author, this paper analyzes the key factors in the construction of new consumer brand communities, and explores effective strategies to improve user stickiness, so as to help new consumer brands achieve sustainable development."
     }
   ],
   "presentations": [
@@ -124,22 +110,22 @@
       "description": ""
     }
   ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
+ # "teaching": [
+   # {
+      #"course": "Teaching experience 1",
+     # "institution": "University 1, Department",
+     # "date": "2014-01-01",
+      #"role": "Undergraduate course",
+      #"description": ""
+   # },
+    #{
+      #"course": "Teaching experience 2",
+      #"institution": "University 1, Department",
+      #"date": "2015-01-01",
+      #"role": "Workshop",
+     # "description": ""
+   # }
+  #],
   "portfolio": [
     {
       "name": "Portfolio item number 1",
